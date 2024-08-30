@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-</body>
 </html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -42,7 +33,7 @@
                         <li>
                             <div>
                                 <strong>What is Safety in the workplace?</strong>
-                            <p>Safety is especially important for employees and students who work in industrial enironments because of the higher number of risks in these areas. To protect yourself from injuries, you must be precautions. This includes wearing personal protective equipment appropiately and correctly handing tools and
+                            <p>Safety is especially important for employees and students who work in industrial enironments because of the higher number of risks in these                                     areas. To protect yourself from injuries, you must be precautions. This includes wearing personal protective equipment appropiately and correctly handing tools and
                                 correctly handing tools and equipment. When working in workshops, always follow the safety uidelines given in serice manuals and other thchnical literature. When most people think of workplace safety, they immediately think of physical hazards such as slips, trips and falls. Nowever, many other 
                                 workplace hazards can threaten employees's safety and health. These include ergonomic, chemical, and psychological hazards. Workplace safety include three groups:
                                 <ol><li>Workplace Safety and Health (WSH)</li>
@@ -77,20 +68,15 @@
                                                     </p>
                                                 </div>   
                                 </div>
-                        </li>
                         <li><strong>Why is health and safety important in the workplace?</strong></li>
-                        <p> The importance of workplac esafety connot be overstanted. Occupational safety and health are crucial in order to protect employees from workplace injuries and ensure their well-being
-                            Implementing a comprehensive safety program is necessary to indentify workplace hazards and minimize the risk of accidents. This involves regularly assessing the workplace and equipment
+                        <p> The importance of workplac esafety connot be overstanted. Occupational safety and health are crucial in order to protect employees from                                         workplace injuries and ensure their well-being
+                            Implementing a comprehensive safety program is necessary to indentify workplace hazards and minimize the risk of accidents. This involves                                     regularly assessing the workplace and equipment
                             , as well as educating employees on safety procedures and enforcing compliance. Workplace safety is important for several reasons.<br>
                             First and foremost, it prevents injuries and illnesses, saving both the employee and the organization from significant pain, suffering, and financial losses. Additionally, a safe environment 
                             fosters increased employee morale nd satisfaction, leading to increased productivity and reduced turnover rates. By proactively managing safety, organizations demonstrate their commitment to the 
                             well-being of their workforce,which in turn encourages employees to take responsibility for their own safety as well.
                         </p>
-                    </ol>
-                </ul>
-            </section>
             <hr>
-    <ul>
         <section>
         <h><strong>Questions and Answers</strong></h>
         <ol>
@@ -127,7 +113,6 @@
                     <li>Maintenance program schedule</li>
                     <li>Safety meetings</li>
                     <li>Emergency preparedness</li>
-                </ul>
             </li>
         </ol>
     </ul>
