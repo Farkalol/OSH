@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.button-container {
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(2, auto);
+}
+
+.btn {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    text-transform: uppercase;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn span {
+    margin-right: 8px;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 8px 15px rgba(249, 48, 135, 0.774);
+}
+
+/* Button Colors */
+.purple {
+    background-color: #c3c0c6;
+}
+
+.cyan {
+    background-color: #c3c0c6;
+}
+
+.green {
+    background-color: #c3c0c6;
+}
+
+.red {
+    background-color: #c3c0c6;
+}
